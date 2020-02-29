@@ -2,6 +2,18 @@
 
 ![thdog](https://image.moeloli.cc/images/2020/01/12/logo256.png)
 
+[下载地址](https://github.com/shirokurakana/thdog/releases)
+
+[东方狗官网](http://app.thdog.moe/)
+
+## 1.0.5
+
+- 删除微博详情页底下并没有什么卵用的评论框
+
+- 应某用户建议，将东方Project超话入口提前
+
+- 其实最主要的目的是想在2月29日这个特殊的日子更新一次xx
+
 ## 1.0.4
 
 - 修复了wiki内部分文字不显示的问题
