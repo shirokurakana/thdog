@@ -1,10 +1,14 @@
 # 东方狗更新日志
 
-![thdog](https://image.moeloli.cc/images/2020/01/12/logo256.png)
+![logo256.png](https://i.loli.net/2020/04/06/WUxF9PloiGRqu6e.png)
 
 [下载地址](https://github.com/shirokurakana/thdog/releases)
 
 [东方狗官网](http://app.thdog.moe/)
+
+## 1.0.7
+
+- 修复了部分机型搜索栏显示不正常的问题
 
 ## 1.0.6
 
